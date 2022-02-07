@@ -1,5 +1,6 @@
 # workspace files
 .vscode/
+.venv
 
 # jupyter notebook checkpoints
 MyGeoScripts/.ipynb_checkpoints
